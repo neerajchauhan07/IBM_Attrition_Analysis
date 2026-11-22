@@ -2,6 +2,8 @@
 
 An exploratory data analysis (EDA) project that finds **why employees leave** and gives HR **data-backed recommendations** to reduce attrition.
 
+· This is a practice project using the public IBM HR Analytics Employee Attrition sample dataset (a fictional dataset created by IBM data scientists, not real employee records). I used it to practise data cleaning and exploratory data analysis in Python.
+
 **Tools:** Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 📓 **[Open the notebook](IBM_attrition_Analysis/IBM_Attrition_Analysis.ipynb)** (all charts and outputs are already rendered)
