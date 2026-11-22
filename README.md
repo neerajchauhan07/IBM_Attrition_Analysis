@@ -4,7 +4,7 @@ An exploratory data analysis (EDA) project that finds **why employees leave** an
 
 **Tools:** Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
-📓 **[Open the notebook](IBM_Attrition_Analysis.ipynb)** (all charts and outputs are already rendered)
+📓 **[Open the notebook](IBM_attrition_Analysis/IBM_Attrition_Analysis.ipynb)** (all charts and outputs are already rendered)
 
 ---
 
@@ -28,9 +28,9 @@ IBM HR Analytics Employee Attrition dataset: **1,470 employees × 35 columns** (
 - **Age 18-25** (about 36%) and **first-year employees** (about 35%) are most likely to leave
 - **Low income**, **no stock options**, **frequent travel** and **bad work-life balance** all show higher attrition
 
-![Attrition by factor](images/attrition_by_factor.png)
+![Attrition by factor](IBM_attrition_Analysis/images/attrition_by_age_income_tenure.png)
 
-![Marital status and overtime](images/marital_overtime.png)
+![Marital status and overtime](IBM_attrition_Analysis/images/marital_overtime.png)
 
 ## ✅ Recommendations
 | Priority | Action |
