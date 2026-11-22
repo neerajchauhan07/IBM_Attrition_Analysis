@@ -18,7 +18,7 @@ IBM HR Analytics Employee Attrition dataset: **1,470 employees × 35 columns** (
 1. **Data profiling:** shape, data types, summary statistics, constant columns
 2. **Data cleaning:** numeric codes to text, duplicates, missing values, typos and spaces, correct data types, removed unneeded columns
 3. **Feature engineering:** `AgeGroup`, `IncomeBand`, `TenureGroup`, `DistanceGroup`, `PromotionGap`, `AttritionFlag`
-4. **EDA:** univariate, bivariate and multivariate analysis with 19 visualizations
+4. **EDA:** univariate, bivariate and multivariate analysis with visualizations
 
 ## 🔍 Key Findings
 - Overall attrition is **16.1%** (237 of 1,470 employees)
