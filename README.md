@@ -65,4 +65,4 @@ jupyter notebook IBM_Attrition_Analysis.ipynb
 
 
 ## 👤 Author
-**Neeraj Chauhan** · [LinkedIn](https://www.linkedin.com/in/neeraj-chauhan-419580361/) · [GitHub](https://github.com/neerajchauhan07)
+**Neeraj Chauhan** · [LinkedIn](https://www.linkedin.com/in/neerajchauhan07/) · [GitHub](https://github.com/neerajchauhan07)
